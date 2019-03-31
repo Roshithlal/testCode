@@ -1,0 +1,1 @@
+app.constant('arrowMapper', {true:'up', false:'down'});
